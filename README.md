@@ -40,7 +40,7 @@ ____________________________________________________
   
   - Select hostel database and click on Import tab. Then Import the database hostel.sql from the local system --(Directory where you unzipped the file in step 1)
 
-5. In your browser enter in url "http://localhost/"Your directory here(not necessary)"/Source Code/hostel/”
+5. In your browser enter in url "http://localhost/' Your directory here(not necessary) '/Source Code/hostel/”
 
 _______________________________________________________________________________________________________________________________
 ## Login Details
